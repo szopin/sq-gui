@@ -55,37 +55,42 @@
 <context>
     <name>sq-gui</name>
     <message>
-        <location filename="../qml/pages/sq-gui.qml" line="108"/>
+        <location filename="../qml/pages/sq-gui.qml" line="195"/>
         <source>Copy to clipboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/sq-gui.qml" line="112"/>
+        <location filename="../qml/pages/sq-gui.qml" line="199"/>
         <source>Select file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/sq-gui.qml" line="116"/>
+        <location filename="../qml/pages/sq-gui.qml" line="203"/>
         <source>Select private key</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/sq-gui.qml" line="120"/>
+        <location filename="../qml/pages/sq-gui.qml" line="208"/>
+        <source>Attachment(s)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/sq-gui.qml" line="219"/>
         <source>Decrypt - passwordless</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/sq-gui.qml" line="133"/>
+        <location filename="../qml/pages/sq-gui.qml" line="233"/>
         <source>Password</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/sq-gui.qml" line="149"/>
+        <location filename="../qml/pages/sq-gui.qml" line="261"/>
         <source>Select recipient key</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/sq-gui.qml" line="160"/>
+        <location filename="../qml/pages/sq-gui.qml" line="272"/>
         <source>Select encrypted file</source>
         <translation type="unfinished"></translation>
     </message>
